@@ -1,0 +1,35 @@
+{
+  "name": "input-data-decoder-ethereum",
+  "version": "0.0.1",
+  "description": "ethereum transaction input data decoder",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape ./test/index.js",
+    "client": "browserify ./example/main.js -o ./example/bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sthnaqvi/input-data-decoder-ethereum"
+  },
+  "bugs": {
+    "url": "https://github.com/sthnaqvi/input-data-decoder-ethereum/issues"
+  },
+  "homepage": "https://github.com/sthnaqvi/input-data-decoder-ethereum",
+  "author": "Sayed Tauseef Naqvi <tauseef.naqvi786@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ethereumjs-abi": "^0.6.5"
+  },
+  "keywords": [
+    "ethereum",
+    "input",
+    "decoder",
+    "abi",
+    "smart",
+    "contracts",
+    "transaction"
+  ],
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
