@@ -6,7 +6,7 @@ Uses [ethereumjs-abi](https://github.com/ethereumjs/ethereumjs-abi) for decoding
 
 ## Demo
 
-[https://sthnaqvi.github.io/input-data-decoder-ethereum/](https://sthnaqvi.github.io/input-data-decoder-ethereum/)
+[https://input-data-decoder-ethereum.ethorbit.com/](https://input-data-decoder-ethereum.ethorbit.com/)
 
 ## Install
 
